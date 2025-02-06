@@ -10,7 +10,7 @@ Este repositório contém um projeto didático para explorar algoritmos de verif
 
 # Sumário
 
-[Introdução].(#Introdução)
+Introdução
 
 Estrutura do Projeto
 
