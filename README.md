@@ -170,7 +170,7 @@ Crivo de Eratóstenes – Wikipedia
 Números Primos – Khan Academy
 
 
-📌 Mantenedor: Leonardo Pupo – GitHub
+📌 Mantenedor: @profLeoPupo – GitHub
 
 
 ---
